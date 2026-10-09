@@ -1,0 +1,10 @@
+{
+	"layers": {
+		"humanoid": [
+			{ "texture": "vajra:vajra" }
+		],
+		"humanoid_leggings": [
+			{ "texture": "vajra:vajra" }
+		]
+	}
+}
