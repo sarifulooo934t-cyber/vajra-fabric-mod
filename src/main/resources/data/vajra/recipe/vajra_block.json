@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "building",
+	"key": {
+		"#": "vajra:vajra_ingot"
+	},
+	"pattern": [
+		"###",
+		"###",
+		"###"
+	],
+	"result": { "count": 1, "id": "vajra:vajra_block" }
+}
