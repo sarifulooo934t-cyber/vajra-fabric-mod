@@ -1,0 +1,6 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": [ "vajra:vajra_block" ],
+	"result": { "count": 9, "id": "vajra:vajra_ingot" }
+}
