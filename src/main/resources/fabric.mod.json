@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "vajra",
+	"version": "${version}",
+	"name": "Vajra - Indra's Thunder",
+	"description": "Adds Vajra: a mythical crystal ore with a full tool set, armor, and the Vajra thunderbolt that calls down lightning. Inspired by Indra's divine weapon.",
+	"authors": ["Sariful Sahaji"],
+	"contact": {},
+	"license": "MIT",
+	"icon": "assets/vajra/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["com.sariful.vajra.VajraMod"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
