@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": "vajra:vajra_ingot"
+	},
+	"pattern": [
+		"# #",
+		"# #"
+	],
+	"result": { "count": 1, "id": "vajra:vajra_boots" }
+}
