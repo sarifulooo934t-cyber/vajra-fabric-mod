@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"": { "model": "vajra:block/vajra_block" }
+	}
+}
